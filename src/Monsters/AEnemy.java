@@ -72,8 +72,5 @@ public abstract class AEnemy {
     public abstract void setLastDir(int NewlastDir);
     public abstract boolean isAlive();
     public abstract boolean isSlow();
-
-
-
     
 }

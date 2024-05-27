@@ -23,7 +23,7 @@ public class ActionBar extends Bar{
     private Button[] pokButtons;
     private DecimalFormat formatter;
     private Button sellTower, upgradeTower, evolButton;
-    private int pokeCoins = 100;
+    private int pokeCoins = 100000;
     private boolean showTowerCost;
     private int towerCostType;
 
